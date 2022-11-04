@@ -1,10 +1,15 @@
 {
   "img": "img/omni.png",
+  "alt": "Picture of my Omnifood website",
   "title": "Omnifood Website",
   "titleText": "My first website which helped me develop essential web development skills.",
   "modalTitle": "Omnifood",
   "category": "Website",
   "tech": "HTML & CSS",
   "modalText": "This project was a part of Jonas Schmedtmann's Udemy course. The design is his but I developed the page together with him for learning purposes.",
-  "num": 7
+  "num": 7,
+  "type": "desktop",
+  "className": "of",
+  "gitHub": "https://github.com/Ryiguchi/omnifood-website",
+  "link": "https://ryiguchi.github.io/omnifood-website"
 }
