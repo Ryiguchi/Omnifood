@@ -1,5 +1,5 @@
 {
-  "img": "img/omni.png",
+  "img": "https://raw.githubusercontent.com/Ryiguchi/omnifood-website/main/json/omni.png",
   "alt": "Picture of my Omnifood website",
   "title": "Omnifood Website",
   "titleText": "My first website which helped me develop essential web development skills.",
